@@ -8,4 +8,4 @@
 	app.component.css— the component's private CSS styles.
 6. app.component.ts
 	title = 'Tour of Heroes';
-7. 
+7. ng generate component heroes
