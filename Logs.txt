@@ -1,0 +1,4 @@
+1. ng new angular-tour-of-heroes
+2. cd angular-tour-of-heroes
+3. ng serve --open
+4. http://localhost:4200/
